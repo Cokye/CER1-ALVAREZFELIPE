@@ -1,0 +1,125 @@
+body{
+    font-family: Arial;
+}
+
+#imagen_2{
+    width: 100vw;   
+    height: 900px; 
+    text-align: right;
+}
+
+#texto_1{
+    text-align: left;
+    margin-top: 400px;
+    margin-left: 100px;
+    
+}
+
+#segundo_cuadro_texto{
+    width: 100vw;
+    height: 900px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+#segundo_cuadro_foto{
+    width: 100vw;
+    height: 900px;
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+
+
+#trabajos{
+    width: 100vw;
+    height: 100px;
+    margin-left: 120px;
+}
+
+#soy{
+    margin-right: 300px;
+}
+
+
+#izquierda{
+    margin-left: 10px;
+}
+
+
+#mover_derecha{
+
+    margin-left: 120px;
+}
+
+#golden{
+    width: 100vw;
+    height: 400px;
+    margin-left: 100px;
+    text-align: center;
+}
+
+#akira{
+    width: 100vw;
+    height: 400px;
+    text-align: center;
+
+}
+
+#jane{
+    width: 100vw;
+    height: 400px;
+    text-align: center;
+
+}
+
+#music{
+    width: 100vw;
+    height: 500px;
+    margin-left: 100px; 
+    text-align: center;
+}
+
+#super{
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+
+}
+
+#gigi{
+    width: 100vw;
+    height: 500px;
+    text-align: center;
+
+}
+
+#conecta{
+    width: 100vw;
+    height: 100px;
+    margin-left: 120px;
+}
+
+#espacio_blanco{
+    width: 100vw;
+    height: 600px;
+}
+
+#redes{
+    width: 100vw;
+    height: 100px;
+    margin-left: 120px;
+    text-align: right;
+    
+}
+
+#numero_contacto{
+    width: 100vw;
+    height: 100px;
+    margin-left: 120px;
+}
+
+
+.fondo{
+    background-color: #fff;
+}
